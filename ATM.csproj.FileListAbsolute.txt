@@ -1,0 +1,13 @@
+C:\Users\gavinr\source\repos\ATM\ATM\obj\Debug\ATM.csprojAssemblyReference.cache
+C:\Users\gavinr\source\repos\ATM\ATM\obj\Debug\ATM.Properties.Resources.resources
+C:\Users\gavinr\source\repos\ATM\ATM\obj\Debug\ATM.csproj.GenerateResource.cache
+C:\Users\gavinr\source\repos\ATM\ATM\obj\Debug\ATM.csproj.CoreCompileInputs.cache
+C:\Users\gavinr\source\repos\ATM\ATM\bin\Debug\ATM.exe.config
+C:\Users\gavinr\source\repos\ATM\ATM\bin\Debug\ATM.exe
+C:\Users\gavinr\source\repos\ATM\ATM\bin\Debug\ATM.pdb
+C:\Users\gavinr\source\repos\ATM\ATM\obj\Debug\ATM.exe
+C:\Users\gavinr\source\repos\ATM\ATM\obj\Debug\ATM.pdb
+C:\Users\gavinr\source\repos\ATM\ATM\obj\Debug\ATM.frmPinIDEntry.resources
+C:\Users\gavinr\source\repos\ATM\ATM\obj\Debug\ATM.frmForm1.resources
+C:\Users\gavinr\source\repos\ATM\ATM\obj\Debug\ATM.frmTransactionComplete.resources
+C:\Users\gavinr\source\repos\ATM\ATM\obj\Debug\ATM.frmTransactionEntry.resources
